@@ -57,3 +57,11 @@ Where w1 and w2 are weights. In our experiments, we use w1 = 100 and w2 = 50.
 ## Test Data
 The test data is a data set that has been crawled, processed and processed. It includes a total of five pieces of data, coad (colorectal cancer)、brca (breast cancer)、luad (lung cancer)、kidney (kidney cancer) and hnsc (head and neck cancer
 ), and is provided to users as sample data.
+
+## DEMO
+
+
+https://github.com/007d83QQ/MicroRNA-signatures-Identify/assets/109134845/23a92165-6bd9-43f6-8578-16f39e20d6bf
+
+
+
