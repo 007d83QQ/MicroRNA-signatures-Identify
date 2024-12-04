@@ -61,7 +61,5 @@ The test data is a data set that has been crawled, processed and processed. It i
 ## DEMO
 
 
-https://github.com/007d83QQ/MicroRNA-signatures-Identify/assets/109134845/23a92165-6bd9-43f6-8578-16f39e20d6bf
-
 
 
